@@ -26,7 +26,9 @@ Xweapon is a Bash based script that allows it's users to bomb on any Bangladeshi
 
 ## Install & Run :
 
-* pkg update -y && pkg upgrade && pkg install curl && pkg install git && git clone https://github.com/Ign0r3dH4x0r/Xweapon && cd Xweapon && bash Xweapon.sh
+```
+pkg update -y && pkg upgrade && pkg install curl && pkg install git && git clone https://github.com/Ign0r3dH4x0r/Xweapon && cd Xweapon && bash Xweapon.sh
+```
 
 ## ***Follow This Guy***
 
